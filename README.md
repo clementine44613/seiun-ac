@@ -128,7 +128,6 @@ Edit `config/SeiunAC-anticheat/discord/webhook.json`:
 
 ## Troubleshooting
 
-- **"Anti-cheat mod not found"** — The client doesn't have Seiun AC installed. They need to install it from [Modrinth](https://modrinth.com/mod/seiunac).
 - **"Anti-cheat mod has been modified"** — The client's Seiun AC JAR hash doesn't match the server's expected hash. They may be using a cracked or altered version.
 - **"Illegal mods detected"** — The client has a mod on the blacklist. Check the kick message for the mod name.
 - **"Modified mods detected"** — A whitelisted mod has a different hash on the client than on the server. The mod file may have been modified.
@@ -142,4 +141,4 @@ Edit `config/SeiunAC-anticheat/discord/webhook.json`:
 
 ## License
 
-All rights reserved. See the mod page on [Modrinth](https://modrinth.com/mod/seiunac) for distribution terms.
+All rights reserved. Seek the Jun for distribution terms.
